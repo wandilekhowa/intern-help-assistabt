@@ -10,5 +10,5 @@ npm start
 
 Interacting with the Server
 
-The server supports a normal GET/POST request.
+The server supports a normal GET/POST request. For more information, read this guide: https://github.com/typicode/json-server/blob/master/README.md#filter
 
