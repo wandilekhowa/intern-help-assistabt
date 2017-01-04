@@ -1,0 +1,14 @@
+{
+  "name": "help-assistant-server",
+  "version": "1.0.0",
+  "description": "Mock API server for intern help assistant bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Wandile Khowa <wandile.khowa@allangray.co.za>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.9.4"
+  }
+}

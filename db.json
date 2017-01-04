@@ -1,0 +1,69 @@
+{
+  "keywords": [
+    {
+      "request": "intern guide",
+      "response": "Sibulele & Mnotho",
+      "further assistance": "Pieter Norman & Nuraan Appleby"
+    },
+    {
+      "request": "problem statement",
+      "response": "Charnay & Wandile",
+      "further assistance": "Irfaan Imamdin,Ron Bach & Allen Huang"
+    },
+    {
+      "request": "development environment",
+      "response": "Skhumbuzo & Lorna",
+      "further assistance": "Botlhale Mosoane, Robert Herbst,Vusi Mngomezulu,Allan Huang & Joel Berman"
+    },
+    {
+      "request": "project management",
+      "response": "Sibulele & Mnotho",
+      "further assistance": "Pieter Norman & Nuraan Appleby"
+    },
+    {
+      "request": "business model",
+      "response": "Charnay & Wandile",
+      "further assistance": "Irfaan Imamdin,Ron Bach & Allen Huang"
+    },
+    {
+      "request": "system design",
+      "response": "Skhumbuzo & Lorna",
+      "further assistance": "Botlhale Mosoane, Robert Herbst,Vusi Mngomezulu,Allan Huang & Joel Berman"
+    },
+    {
+      "request": "project planning",
+      "response": "Sibulele & Mnotho",
+      "further assistance": "Pieter Norman & Nuraan Appleby"
+    },
+    {
+      "request": "user stories",
+      "response": "Charnay and Wandile",
+      "further assistance": "Irfaan Imamdin,Ron Bach & Allen Huang"
+    },
+    {
+      "request": "code issues",
+      "response": "Skhumbuzo & Lorna",
+      "further assistance": "Botlhale Mosoane, Robert Herbst,Vusi Mngomezulu,Allan Huang & Joel Berman"
+    },
+    {
+      "request": "journals",
+      "response": "Sibulele & Mnotho",
+      "further assistance": "Pieter Norman & Nuraan Appleby"
+    },
+    {
+      "request": "general issues",
+      "response": "Sibulele & Mnotho",
+      "further assistance": "Pieter Norman & Nuraan Appleby"
+    },
+    {
+      "request": "impack map",
+      "response": "Charnay & Wandile",
+      "further assistance": "Irfaan Imamdin,Ron Bach & Allen Huang"
+    },
+    {
+      "request": "working software & demos",
+      "response": "Skhumbuzo & Lorna",
+      "further assistance": "Botlhale Mosoane, Robert Herbst,Vusi Mngomezulu,Allan Huang & Joel Berman"
+    }
+  ]
+}
