@@ -9,5 +9,6 @@ To start the server run the following command:
 npm start
 
 Interacting with the Server
-The server supports filtering and finding by ID. To find out more about the features read the project README.
+
+The server supports a normal GET/POST request.
 
